@@ -6,3 +6,20 @@ A system that will recognize the faces of children present by facial recognition
 
 ## Instructions to download shape predictor face landmarks
 To download the shape predictor face landmarks, click <a href="https://drive.google.com/drive/folders/1XpA2wKfutscRGtWhQ-cUxYsTatOH7ihl?usp=sharing">here</a>.
+
+## QUICK START
+- Cloning the Repository: 
+
+        git clone https://github.com/sukritKRM/face_reco_for_attendance
+        
+- Entering the directory: 
+
+        cd face_reco_for_attendance
+        
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
+       
+- Running the file 
+
+        python ./detect.py --shape-predictor shape_predictor_68_face_landmarks.dat     
