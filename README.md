@@ -3,3 +3,6 @@ The problem is the time wasted by the teacher every morning and every end of the
 
 ## PROPOSED SOLUTION
 A system that will recognize the faces of children present by facial recognition and make a list of students by the names corresponding to the images of their faces
+
+## Instructions to download shape predictor face landmarks
+To download the shape predictor face landmarks, click <a href="https://drive.google.com/drive/folders/1XpA2wKfutscRGtWhQ-cUxYsTatOH7ihl?usp=sharing">here</a>.
