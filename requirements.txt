@@ -1,0 +1,9 @@
+cmake==3.21.1
+dlib==19.19.0
+imutils==0.5.3
+numpy==1.18.3
+opencv-python==4.2.0.34
+scipy==1.4.1
+deepface==0.0.50
+tensorflow==2.5.0
+keras==2.4.3
