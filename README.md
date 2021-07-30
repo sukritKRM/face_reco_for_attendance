@@ -7,6 +7,18 @@ A system that will recognize the faces of children present by facial recognition
 ## Instructions to download shape predictor face landmarks
 To download the shape predictor face landmarks, click <a href="https://drive.google.com/drive/folders/1XpA2wKfutscRGtWhQ-cUxYsTatOH7ihl?usp=sharing">here</a>.
 
+## Database Structure
+```
+database
+   |
+   |-----my_db
+   |       |
+   |       |------A(name)
+   |       |      |--------A.jpg
+   |       |------B(name)
+   |       |      |--------B.jpg
+```
+
 ## QUICK START
 - Cloning the Repository: 
 
@@ -23,3 +35,4 @@ To download the shape predictor face landmarks, click <a href="https://drive.goo
 - Running the file 
 
         python ./detect.py --shape-predictor shape_predictor_68_face_landmarks.dat     
+
