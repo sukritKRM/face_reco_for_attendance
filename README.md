@@ -36,3 +36,5 @@ database
 
         python ./detect.py --shape-predictor shape_predictor_68_face_landmarks.dat     
 
+<HR>
+   THIS PROJECT HAS BEEN DEVOLOPED BY <a href="https://github.com/sukritKRM">SUKRIT</a>
