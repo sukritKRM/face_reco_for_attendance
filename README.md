@@ -50,7 +50,14 @@ database
        
 - Running the file 
 
-        python ./detect.py --shape-predictor shape_predictor_68_face_landmarks.dat     
+        python ./detect.py --shape-predictor shape_predictor_68_face_landmarks.dat   
+        
+## RESULTS
+- Live face recognition 
+<img src="assets/frame.jpg"> 
+
+- Output screen
+<img src="assets/output.jpg">
 
 <HR>
    THIS PROJECT HAS BEEN DEVOLOPED BY <a href="https://github.com/sukritKRM">SUKRIT</a>
